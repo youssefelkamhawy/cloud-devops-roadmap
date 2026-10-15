@@ -1,1 +1,2 @@
 Learning Git for Cloud and DevOps
+Git tracks changes through commits
