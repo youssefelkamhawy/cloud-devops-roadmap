@@ -1,1 +1,2 @@
 Deployment environment: development
+Deployment method: Docker
