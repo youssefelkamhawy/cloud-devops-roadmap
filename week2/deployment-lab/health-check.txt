@@ -1,0 +1,3 @@
+inventory: inventory-api
+health endpoint: /health
+expected status: 200 ok
